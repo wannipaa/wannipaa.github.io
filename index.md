@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 Hello! My name is Wannipa Ubonban, or you can call me Paire. I'm 19 years old. I’m a second year student at KMUTNB (King Mongkut's University of Technology North Bangkok). I'm studying computer engineering. I'm here to learn and improve my coding skill!. 
 
 ### Languages
