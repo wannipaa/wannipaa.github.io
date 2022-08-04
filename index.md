@@ -7,6 +7,11 @@ Hello! My name is Wannipa Ubonban, or you can call me Paire. I'm 19 years old. I
 ### Skills
 Python
 
+### Interest
+C+/C++
+Java
+Kotlin
+
 ### Contact
 
 Email : s6401012630116@email.kmutnb.ac.th
