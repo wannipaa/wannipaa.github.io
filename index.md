@@ -8,12 +8,15 @@ Hello! My name is Wannipa Ubonban, or you can call me Paire. I'm 19 years old. I
 Python
 
 ### Interest
-C+/C++
-Java
-Kotlin
+⋅⋅⋅C+/C++
+⋅⋅⋅Java
+⋅⋅⋅Kotlin
 
 ### Contact
 
 Email : s6401012630116@email.kmutnb.ac.th
 
 Github : [wannipaa](https://wannipaa.github.io)
+
+## Index
+[How I install Linux?](Linuxpage.md)
