@@ -4,7 +4,7 @@
 
 2. Search Ubantu 22.04 LTS and install it.
 <img src = "https://cdn.discordapp.com/attachments/1004952232145465354/1004952362466693140/rewat1.png" alt = "ubtDL"
-     style="width:400px;height:314px;">
+     style="width:400px;height:314px;"><br>
 
 3. Search "Turn Windows feature on or off", do like this and click OK.
 ![tick](https://cdn.discordapp.com/attachments/1004952232145465354/1004953149280358420/rewat6.png "tick")
