@@ -8,9 +8,9 @@ Hello! My name is Wannipa Ubonban, or you can call me Paire. I'm 19 years old. I
 Python
 
 ### Interest
-⋅⋅⋅C+/C++
-⋅⋅⋅Java
-⋅⋅⋅Kotlin
+* C+/C++
+* Java
+* Kotlin
 
 ### Contact
 
