@@ -1,6 +1,8 @@
 # How I install Linux?
 
 1. Open Microsoft Store.
+<img src= "https://cdn.discordapp.com/attachments/1004952232145465354/1004955462543867977/unknown.png" alt = "mcS"
+     style="width:35px;height:35px;">
 
 2. Search Ubantu 22.04 LTS and install it.<br>
 <img src = "https://cdn.discordapp.com/attachments/1004952232145465354/1004952362466693140/rewat1.png" alt = "ubtDL"
@@ -22,4 +24,6 @@
 <img src= "https://cdn.discordapp.com/attachments/1004952232145465354/1004953068498059385/rewat5.png" alt="ate"
      style="width:400px;height:295px;">
 
-7. Finish!!!!
+7. Finish!!!!<br>
+<img src= "https://cdn.discordapp.com/attachments/1004952232145465354/1004966732152180796/unknown.png" alt="cat"
+     style="width:164px;height:99px;">
