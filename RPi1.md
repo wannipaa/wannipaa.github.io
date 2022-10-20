@@ -5,20 +5,20 @@
 <img src="https://static.cytron.io/image/cache/catalog/products/RASPBERRY-PI-4B-1G/11-800x800.jpg" alt='rpi' 
      style="width:400px;height:400px;" >
 
-1. Download Raspberry Pi Imager and Raspberry Pi OS(64-bit)
+1.Download Raspberry Pi Imager and Raspberry Pi OS(64-bit)
 [click here to download](https://www.raspberrypi.com/software/)
 
 <img src="https://cdn.discordapp.com/attachments/1029328113932439572/1032668929639845928/unknown.png" alt='rpi1' style="width:720px;height:405px;" >
 
 <img src="https://cdn.discordapp.com/attachments/1004952232145465354/1027832442301718538/unknown.png" alt='rpi2' style="width:720px;height:405px;" >
 
-2. install Raspberry Pi Imager
+2.install Raspberry Pi Imager
 
 <img src="https://cdn.discordapp.com/attachments/1004952232145465354/1027835913943908432/unknown.png" alt='rpi3' style="width:720px;height:405px;" >
 
 <img src="https://cdn.discordapp.com/attachments/1004952232145465354/1027837329357942804/unknown.png" alt='rpi4' style="width:720px;height:405px;" >
 
-3. setting
+3.setting
 
 <img src="https://cdn.discordapp.com/attachments/1004952232145465354/1027838194592534538/unknown.png" alt='rpi5' style="width:720px;height:405px;" >
 
@@ -32,13 +32,13 @@ when finished setting save and click WRITE.
 
 clickk YES
 
-4. wait for writing and verifying
+4.wait for writing and verifying
 
 <img src="https://cdn.discordapp.com/attachments/1004952232145465354/1027839753615310898/unknown.png" alt='rpi9' style="width:720px;height:405px;" >
 
 <img src="https://cdn.discordapp.com/attachments/1004952232145465354/1027843732248215572/unknown.png" alt='rpi10' style="width:720px;height:405px;" >
 
-5. finish!!!!
+5.finish!!!!
 
 <img src="https://cdn.discordapp.com/attachments/1004952232145465354/1027844714801659915/unknown.png" alt='rpi10' style="width:720px;height:405px;" >
 
