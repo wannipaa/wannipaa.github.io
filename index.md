@@ -20,3 +20,5 @@ Github : [wannipaa](https://wannipaa.github.io)
 
 ## Index
 [How I install Linux?](Linuxpage.md)
+
+[First time with RaspberryPi4?!?!](RPi1.md)
