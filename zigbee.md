@@ -29,11 +29,11 @@ cd /opt/zigbee2mqtt
 npm ci
 ```  
 ## Configuring
-* Open the configuration file
+### Open the configuration file
 ```
 $ nano /opt/zigbee2mqtt/data/configuration.yaml
 ```  
-* write code
+### write code
 ```
 # MQTT settings
 mqtt:
