@@ -1,18 +1,18 @@
 # Installing MQTT Broker
-* Install MQTT
+### Install MQTT
 
 ```
 $ sudo apt update 
 $ sudo apt install -y mosquitto
 ```  
 
-* create file /etc/mosquitto/mosquitto.conf
+### create file /etc/mosquitto/mosquitto.conf
 
 ```
 $ sudo nano /etc/mosquitto/mosquitto.conf
 ```  
 
-* write flie /etc/mosquitto/mosquitto.conf
+### write flie /etc/mosquitto/mosquitto.conf
 
 ```
 pid_file /run/mosquitto/mosquitto.pid
