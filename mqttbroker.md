@@ -30,6 +30,7 @@ protocol websockets
 allow_anonymous false
 password_file /etc/mosquitto/passwd
 ```  
+
 and save file (Ctrl+o for save and then Ctrl+x)
 
 <img src="https://cdn.discordapp.com/attachments/1004952232145465354/1038034405765160970/image.png" alt='mqb' style="width:720px;height:405px;" >
